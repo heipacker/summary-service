@@ -1,5 +1,12 @@
 自动摘要提取工具
 --------
+安装步骤
+------
+pip install flask
+
+pip install snownlp
+
+python summary-service.py
 
 测试接口例子
 ------
